@@ -6,12 +6,8 @@ Computer Science student & developer
 
 *   🌍  I'm based in Boston
 *   ✉️  You can contact me at [bhartra.d@northeastern.edu](mailto:bhartra.d@northeastern.edu)
-*   🧠  I'm learning Mobile app development
+*   🧠  I'm pursuing my Masters in Computer Science
 *   🤝  I'm open to collaborating on Web developent projects
-<a href="https://www.github.com/devbhartra" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/devbhartra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/dbhartra" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/dbhartra?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
 
 ### Skills 
 <p align="left">
@@ -27,10 +23,9 @@ Computer Science student & developer
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
                     
-
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.github.com/devbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dev-bhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@devbhartra183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/devbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dev-bhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@devbhartra183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
