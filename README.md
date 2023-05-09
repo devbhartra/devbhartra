@@ -1,6 +1,8 @@
 Hi 👋 My name is Dev Bhartra
 ============================
 
+![](Hello, my name is Dev. Nice to meet you..gif)
+
 Computer Science student & developer
 ------------------------------------
 
