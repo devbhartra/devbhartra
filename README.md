@@ -1,7 +1,7 @@
 Hi 👋 My name is Dev Bhartra
 ============================
 
-![](Hello, my name is Dev. Nice to meet you..gif)
+![](https://github.com/devbhartra/devbhartra/blob/47efac5f5aff677c4f0deb8147a1be615380a0b9/Hello%2C%20my%20name%20is%20Dev.%20Nice%20to%20meet%20you..gif)
 
 Computer Science student & developer
 ------------------------------------
