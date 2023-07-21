@@ -29,15 +29,82 @@ Computer Science student & developer
                   
 <p align="left"> <a href="https://www.github.com/devbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dev-bhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@devbhartra183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dbhartra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- ### Badges
- -->
-<!-- <b>My GitHub Stats</b>
+## Experience
 
-<a href="http://www.github.com/devbhartra"><img src="https://github-readme-stats.vercel.app/api?username=devbhartra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devbhartra's GitHub stats" /></a>
+#### Graduate Teaching Assistant
+Northeastern University · Part-time  
+May 2023 - Present · 3 months  
+Boston, Massachusetts, United States · On-site
 
-<a href="http://www.github.com/devbhartra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devbhartra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Guided a diverse cohort of over 70 graduate students in mastering the intricacies of Database Management Systems.
+- Provided personalized support and constructive feedback through weekly office hours and grading sessions.
+- Collaborated with the professor and students on projects involving R/SQL/SQLite databases, React, MongoDB.
+- Mentored students on Data Warehousing and Data Mining techniques to integrate into their projects.
 
-<a href="http://www.github.com/devbhartra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devbhartra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Skills: Python · SQL · MongoDB · Database Triggers · SQLite · R (Programming Language) · Database Management System (DBMS)
 
-<a href="https://github.com/devbhartra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhartra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- -->
+---
+
+#### Data Analyst & Developer
+Blinkit (formerly Grofers) · Full-time  
+Jul 2021 - Jul 2022 · 1 year 1 month  
+Bengaluru, Karnataka, India
+
+- Developed over 20 efficient services with SQL, Python & Apache Airflow to automate discounts on stagnant inventory.
+- Decreased expired wastage loss by 20% after deploying revamped discounting pipeline with optimized Python functions.
+- Reduced overhead in the storage planning algorithm, leading to a 15% increase in space utilization in warehousing.
+- Deployed a service utilizing AWS RedShift, Airflow & Cron to report overall productivity of over 1000 employees.
+- Delivered a 13% increase in employee productivity within a month of deployment of the revamped codebase.
+- Led the big data migration of over 30 existing financial reports from AWS Redshift to PrestoDB in under 1 month.
+- Guided a team of 4 to incorporate code reuse, design principles, and conducted code reviews for multiple projects.
+
+Skills: Python · SQL · Pandas (Software) · Apache Airflow · Cron · Python (Programming Language)
+
+---
+
+#### Software Engineer Intern
+Rakuten India · Internship  
+Feb 2021 - Jul 2021 · 6 months  
+Bengaluru, Karnataka, India
+
+- Led a team of 3 for the modernization of RPay payments with improved data flow & dead code removal using Dart.
+- Rebuilt the iOS app with Flutter, leading to 25% decreased production deployment time and improved aesthetics.
+- Built 15 secure REST APIs in Python with Flask, consisting of reusable components, reducing code duplication by 50%.
+
+Skills: Python · Java · Flutter · Dart · Python (Programming Language)
+
+---
+
+#### Research And Development Intern
+Center for Cloud Computing and Big Data, PES University · Internship
+Jul 2019 - Dec 2019 · 6 months
+Karnataka, India
+
+- An internship at the ongoing research at the CCBD in PES University, on the topic of the scheduling of latency-sensitive tasks in a cluster environment running on Linux OS.
+- Utilized Spark and Hadoop while working with Cgroups and multiple CPU Scheduling techniques to find the optimal parameters for scheduling these tasks.
+- Implemented a master-slave architecture.
+- Tools and technologies used: C, Java, Hadoop, Spark.
+
+Skills: Python · Java
+
+---
+
+#### Software Engineer Intern
+Qwickbit Technologies Pvt. Ltd. · Internship
+Jun 2019 - Jul 2019 · 2 months
+Bangalore, India
+
+- Involved in the design and development of an Android-based application that utilizes image recognition techniques for human palm print identification.
+- Utilized technical skills in OpenCV, Android development, and image recognition technologies.
+
+Skills: Python
+
+---
+
+#### Technical Intern
+Hetrogenous Communication Technologies Pvt. Ltd. · Internship
+May 2019 - Jul 2019 · 3 months
+Chennai, Tamil Nadu, India
+
+- Assisted in developing an IoT project for integrating the rural farms in Africa into the company’s cloud network for efficient farming and advanced predictive analysis with ML for better yield generation.
+
